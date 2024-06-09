@@ -55,16 +55,16 @@ burn: Enter an address and a value, then click the button to burn tokens.
 
 ## Authors
 
-Sahil Kaushik 
-kaushik0112sahil@gmail.com
+Rishu Barman
+rishu612005@gmail.com
 
 
 ## License
 
-This project is licensed under the [Sahil Kaushik] License - 
+This project is licensed under the [Rishu Barman] License - 
 MIT License
 
-Copyright (c) 2024 Sahil Kasuhik
+Copyright (c) 2024 Rishu Barman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
